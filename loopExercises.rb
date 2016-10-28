@@ -52,3 +52,4 @@ def loopExercises
     puts index
   end
 end
+loopExercises

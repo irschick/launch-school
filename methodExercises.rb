@@ -43,3 +43,4 @@ def exercisesMethods
   p mutate(a)
   p "After mutate method: #{a}"
 end
+exercisesMethods

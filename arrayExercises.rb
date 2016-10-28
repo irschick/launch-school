@@ -5,11 +5,6 @@ def putsDivide(string)
   puts '===== ' + string + ' ====='
 end
 
-def hashExercises
-    # ========
-  putsDivide('')
-end
-
 def arrayExercises
   array = [1, 'Bob', 4.33, 'another string']
   puts 'first'
@@ -246,3 +241,5 @@ def arrayExercises
   putsDivide('map example: new array:: after')
   puts c
 end
+
+arrayExercises

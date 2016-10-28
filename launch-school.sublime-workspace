@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"return_value"
+			],
+			[
+				"game",
+				"gameResult〔variable〕"
+			],
+			[
+				"num",
+				"num_games_won"
+			],
+			[
+				"get",
+				"game_result"
+			],
+			[
+				"sc",
+				"scissors"
+			],
+			[
+				"new",
+				"newGame"
+			],
+			[
+				"res",
+				"resources"
+			],
+			[
+				"n",
+				"navigationbar"
+			],
+			[
+				"resume",
+				"resumeLargeCentered"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"St",
+				"String"
+			],
+			[
+				"my",
+				"my_hash2"
+			],
+			[
+				"fav",
+				"fav_foods〔function〕"
+			],
+			[
+				"food",
+				"food_array"
+			],
+			[
+				"arra",
+				"array_sorted"
+			],
+			[
+				"arr",
+				"arrayEx〔function〕"
+			],
+			[
+				"loo",
+				"loopDef〔function〕"
+			],
+			[
+				"ch",
+				"choose"
+			],
+			[
+				"M",
+				"Michael"
+			],
+			[
+				"gr",
+				"greeting"
+			],
+			[
+				"nu",
+				"numberValueAsNumber"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"final",
+				"finalValue"
+			],
+			[
+				"fin",
+				"finalValue〔variable〕"
+			],
+			[
+				"eva",
+				"evalString"
+			],
+			[
+				"consol",
+				"console.log(\"clicked"
+			],
+			[
+				"type",
+				"typeahead"
+			],
+			[
+				"char",
+				"charCount"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"conte",
+				"align-content"
+			],
+			[
+				"copy",
+				"copyright"
+			],
+			[
+				"if",
+				"ife\tif … else … end"
+			],
+			[
+				"pr",
+				"pretty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "Install",
+		"selected_items":
+		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/michaelirschick/ruby/launch-school-programming"
+	],
+	"file_history":
+	[
+		"/Users/michaelirschick/rails/PortfolioSite/css/styles.css",
+		"/Users/michaelirschick/rails/PortfolioSite/index.html",
+		"/Users/michaelirschick/Downloads/freebie-footer-templates/footer-distributed-with-address-and-phones.html",
+		"/Users/michaelirschick/rails/test_app/app/helpers/games_helper.rb",
+		"/Users/michaelirschick/rails/test_app/db/migrate/20160702183737_create_games.rb",
+		"/Users/michaelirschick/rails/test_app/db/migrate/20160709215024_add_game_result_to_games.rb",
+		"/Users/michaelirschick/rails/test_app/app/views/games/statusReport.txt",
+		"/Users/michaelirschick/rails/PortfolioSite/js/scripts.js",
+		"/Users/michaelirschick/rails/ruby/cat1.rb",
+		"/Users/michaelirschick/rails/ruby/Cat1.rb",
+		"/Users/michaelirschick/rails/calculatorInteractive/index.html",
+		"/Users/michaelirschick/rails/calculatorInteractive/test.html",
+		"/Users/michaelirschick/rails/calculatorInteractive/js/scripts.js",
+		"/Users/michaelirschick/rails/rails/program2.rb",
+		"/Users/michaelirschick/rails/rails/program3.rb",
+		"/Users/michaelirschick/rails/rails/fav_foods.rb",
+		"/Users/michaelirschick/rails/rails/program4.rb",
+		"/Users/michaelirschick/rails/calculatorInteractive/css/styles.css",
+		"/Users/michaelirschick/rails/PortfolioSite/js/work.js",
+		"/Users/michaelirschick/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/michaelirschick/Library/Application Support/Sublime Text 3/Packages/User/test.txt",
+		"/Users/michaelirschick/rails/PortfolioSite/js/notes.txt",
+		"/Users/michaelirschick/rails/PortfolioSite/data/nba.json",
+		"/Users/michaelirschick/rails/PortfolioSite/data/nhl.json",
+		"/Users/michaelirschick/rails/calculator/css/normalize.css",
+		"/Users/michaelirschick/rails/calculator/index.html",
+		"/Users/michaelirschick/rails/calculator/css/styles.css",
+		"/Users/michaelirschick/rails/PortfolioSite/css/stylesOld.css",
+		"/Users/michaelirschick/rails/PortfolioSite/hellowBootstrap.html",
+		"/Users/michaelirschick/rails/PortfolioSite/faq.html",
+		"/Users/michaelirschick/rails/PortfolioSite/index3.html",
+		"/Users/michaelirschick/rails/PortfolioSite/css/styles1.css",
+		"/Users/michaelirschick/rails/PortfolioSite/index2.html",
+		"/Users/michaelirschick/Downloads/cssmenu/index1.html",
+		"/Users/michaelirschick/rails/PortfolioSite/contact.html",
+		"/Users/michaelirschick/rails/PortfolioSite/about.html",
+		"/Users/michaelirschick/rails/PortfolioSite/work.html",
+		"/Users/michaelirschick/email.html",
+		"/Users/michaelirschick/ruby/RubyBasics.rb",
+		"/Users/michaelirschick/rails/PortfolioSite/css/about_styles.css",
+		"/Users/michaelirschick/rails/sample_app/config/routes.rb",
+		"/Users/michaelirschick/rails/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/michaelirschick/rails/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/michaelirschick/rails/cf_template-1.1.1/index.html",
+		"/Users/michaelirschick/rails/toy_app/app/models/user.rb",
+		"/Users/michaelirschick/rails/toy_app/app/models/micropost.rb",
+		"/Users/michaelirschick/Desktop/railsStudy.txt",
+		"/Users/michaelirschick/rails/toy_app/config/routes.rb",
+		"/Users/michaelirschick/rails/toy_app/app/controllers/microposts_controller.rb",
+		"/Users/michaelirschick/rails/toy_app/app/controllers/application_controller.rb",
+		"/Users/michaelirschick/rails/toy_app/app/controllers/users_controller.rb",
+		"/Users/michaelirschick/rails/toy_app/app/views/users/index.html.erb",
+		"/Users/michaelirschick/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/michaelirschick/rails/toy_app/app/views/layouts/application.html.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"about",
+			"navigationbarFooter",
+			"config.assets.compile",
+			"static",
+			"cache",
+			"  \n",
+			"case",
+			"if",
+			"create",
+			"new",
+			"root",
+			"print",
+			"elsif",
+			"rand",
+			"resume",
+			"nav",
+			"li",
+			"work",
+			"about",
+			"anchor",
+			"margin",
+			"contact",
+			"padding",
+			".nav",
+			"fluid",
+			"footer",
+			"collap",
+			"nav",
+			".n",
+			".nav",
+			"resume-modal",
+			"resume",
+			"modal-body",
+			" <div class=\"modal-header\">",
+			"modal",
+			"resume",
+			"top",
+			"modal",
+			"modal-body",
+			"irschickResume",
+			"irschickResume ",
+			"myModalLabel",
+			"modal-content",
+			"resume-modal",
+			"modal",
+			"root",
+			"cook county",
+			"console",
+			"htmlNumValue",
+			"html",
+			"click",
+			"AIzaSyAkZhNK4OYvcJHRnvKB6xhunMD6Ws_Xz8k",
+			"scripts",
+			"map",
+			"states",
+			"works",
+			"char",
+			"count",
+			"char",
+			"console",
+			"info",
+			"title",
+			"resume",
+			"..",
+			"map",
+			"linkedIn",
+			"map",
+			"you",
+			"border",
+			"navbar",
+			".nav",
+			"cell",
+			"contacts",
+			"twitt",
+			"row",
+			"cell",
+			"conta",
+			"h3",
+			"id=",
+			"api",
+			"google",
+			"script",
+			"id=about",
+			"phone",
+			"contact",
+			"required",
+			"section",
+			"modal",
+			"bootstra",
+			"you",
+			"contact",
+			"#contact",
+			"nav",
+			"footer",
+			"header",
+			"float",
+			"contain",
+			"padding",
+			"jumbo",
+			".image",
+			"contac",
+			"kntkt",
+			"intro",
+			"work",
+			"left",
+			"fixed",
+			"avbar-fixed-top",
+			"anchor",
+			"skills",
+			"container",
+			"sk",
+			"jumbo",
+			"image",
+			"img",
+			"panel-",
+			"header",
+			"css",
+			"begin",
+			"body",
+			";\n",
+			"li",
+			"resources"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 168.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "launch-school.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

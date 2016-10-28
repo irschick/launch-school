@@ -1,4 +1,3 @@
-
 def exercisesVariables
   $var = 'Global variable: I am also available throughout your app.'
   puts $var
@@ -77,3 +76,4 @@ def exercisesVariables
   #  from (irb):3
   #  from /usr/local/rvm/rubies/ruby-2.0.0-rc2/bin/irb:16:in `<main>'
 end
+exercisesVariables
