@@ -8,11 +8,6 @@ def putsDivide(string)
 	puts '===== ' + string + ' ====='
 end
 
-def hashExercises
-		# ========
-	putsDivide('')
-end
-
 def arrayExercises
 	array = [1, 'Bob', 4.33, 'another string']
 	puts 'first'

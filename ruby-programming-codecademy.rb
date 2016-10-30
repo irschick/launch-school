@@ -5,11 +5,6 @@ def putsDivide(string)
 	puts '===== ' + string + ' ====='
 end
 
-def hashExercises
-		# ========
-	putsDivide('')
-end
-
 @NUMS = [1, 2, 3, 4, 5]
 def arraysPrintElement
 	puts 'arraysLC'
